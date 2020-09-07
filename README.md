@@ -1,5 +1,9 @@
 Introduction
 ============
+### Test and comment JasonYoung 9:24 PM 9/6/2020
+- 1.A responsive administration template. 
+- 2.I think the current version is not yet complete. 
+- 3.Can't adjust layout.
 
 This is the **Angular** version of **AdminLTE** -- what is a fully responsive administration template. Based on **[Bootstrap 4](https://getbootstrap.com)** framework.
 Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
